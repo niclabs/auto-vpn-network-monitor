@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutoVPN</string>
+
+    <string name="starting_text">Network monitoring started...</string>
+    <string name="request_vpn_permission_text">You must accept the VPN request before starting</string>
+
+    <string name="timestamp_key">timestamp_key</string>
+</resources>
